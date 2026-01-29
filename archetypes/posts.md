@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-author: Guilherme Gall
+author: Heitor Garcia
 draft: false
 ---
